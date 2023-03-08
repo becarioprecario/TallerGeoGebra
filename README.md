@@ -14,7 +14,7 @@ A continuación listamos los materiales utilizados en el taller. En concreto, se
 
 * Ejemplo 1. [Puntuación de Apgar](https://www.geogebra.org/m/g4gNURZE).
 
-* Ejemplo 2. [Amnesia posttraumática](https://www.geogebra.org/m/y2RUU3ZJ).
+* Ejemplo 2. [Amnesia postraumática](https://www.geogebra.org/m/y2RUU3ZJ).
 
 * Ejemplo 3. [Barras de jabón](https://www.geogebra.org/m/wWRRPkqt).
 
