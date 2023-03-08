@@ -10,7 +10,7 @@ El objetivo de este taller es mostrar las herramientas que proporcional el softw
 
 ## Materiales
 
-A continuación listamos los materiales utilizados en el taller. En concreto, se trata de un conjunto de bancos de datos de GeoGebra disponibles en un espacio de la web de GeoGebra para que puedan ser fácilmente accesibles.
+A continuación listamos los materiales utilizados en el taller. En concreto, se trata de un conjunto de bancos de datos de GeoGebra disponibles en un [espacio de la web de GeoGebra](https://www.geogebra.org/u/becarioprecario) para que puedan ser fácilmente accesibles.
 
 * Ejemplo 1. [Puntuación de Apgar](https://www.geogebra.org/m/g4gNURZE).
 
