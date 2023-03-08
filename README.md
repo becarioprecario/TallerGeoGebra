@@ -55,6 +55,6 @@ A continuación listamos los materiales utilizados en el taller. En concreto, se
 
 ## Referencias
 
-[V. Gómez Rubio y M.J. Haro Delicado (2022). Probabilidad y estadística con GeoGebra. Federación española de sociedades de profesores de matemáticas (FESPM).](https://fespm.es/index.php/2022/04/02/probabilidad-y-estadistica-con-geogebra/)
+[V. Gómez Rubio y M.J. Haro Delicado (2022). *Probabilidad y estadística con GeoGebra*. Federación española de sociedades de profesores de matemáticas (FESPM).](https://fespm.es/index.php/2022/04/02/probabilidad-y-estadistica-con-geogebra/)
 
-[V. Gómez Rubio y M.J. Haro Delicado (2020). Modelos matemáticos para el análisis de enfermedades infecciosas. Revisgta Suma 96, 11-20.](https://becarioprecario.github.io/files/S96-Virgilio.pdf)
+[V. Gómez Rubio y M.J. Haro Delicado (2020). *Modelos matemáticos para el análisis de enfermedades infecciosas*. Revista Suma 96, 11-20.](https://becarioprecario.github.io/files/S96-Virgilio.pdf)
