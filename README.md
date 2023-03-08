@@ -20,7 +20,7 @@ A continuación listamos los materiales utilizados en el taller. En concreto, se
 
 * Ejemplo 4. [Amantadina](https://www.geogebra.org/m/pq8vXHef).
 
-* Ejemplo 5. [Azúcar refinada](ihttps://www.geogebra.org/m/WEq6QcSv).
+* Ejemplo 5. [Azúcar refinada](https://www.geogebra.org/m/WEq6QcSv).
 
 * Ejemplo 6. [Función de densidad de probabilidad](https://www.geogebra.org/m/zrxtsgbn).
 
