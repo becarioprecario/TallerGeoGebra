@@ -22,15 +22,15 @@ A continuación listamos los materiales utilizados en el taller. En concreto, se
 
 * Ejemplo 5. [Azúcar refinada](ihttps://www.geogebra.org/m/WEq6QcSv).
 
-* Ejemplo 6. [Función de densidad de probabilidad]().
+* Ejemplo 6. [Función de densidad de probabilidad](https://www.geogebra.org/m/zrxtsgbn).
 
-* Ejemplo 7. [Puntuaciones de prueba estandarizada]().
+* Ejemplo 7. [Puntuaciones de prueba estandarizada](https://www.geogebra.org/m/ukfhxjcy).
 
-* Ejemplo 8. [Condensadores]().
+* Ejemplo 8. [Condensadores](https://www.geogebra.org/m/qap4x6fa).
 
-* Ejemplo 9. [Teorema central del límite]().
+* Ejemplo 9. [Teorema central del límite. Media muestral de la distribución uniforme](https://www.geogebra.org/m/yewvx8vt).
 
-* Ejemplo 10. [Media muestral de la  distribución de Poisson]().
+* Ejemplo 10. [Teorema central del límite. Media muestral de la  distribución de Poisson](https://www.geogebra.org/m/w5crbcsw).
 
 * Ejemplo 11. [Lanzamientos de un atleta](https://www.geogebra.org/m/cz4mpa8a).
 
@@ -40,11 +40,11 @@ A continuación listamos los materiales utilizados en el taller. En concreto, se
 
 * Ejemplo 14. [Contenido de nitrógeno](https://www.geogebra.org/m/fwhtms6a).
 
-* Ejemplo 15. [Tipos de gasolina]().
+* Ejemplo 15. [Tipos de gasolina](https://www.geogebra.org/m/wey89egp).
 
-* Ejemplo 16. [Ley de Benford en el censo]().
+* Ejemplo 16. [Ley de Benford en el censo de Cataluña](https://www.geogebra.org/m/d5swavq3).
 
-* Ejemplo 17. [Ley de Benford en la lotería]().
+* Ejemplo 17. [Ley de Benford en los resultados de la lotería](https://www.geogebra.org/m/evc8ggkc).
 
 * Ejemplo 18. [Epidemiología](https://www.geogebra.org/m/jjbjefss).
 
