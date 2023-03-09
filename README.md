@@ -14,7 +14,7 @@ Contacto: Virgilio Gómez Rubio ([Virgilio.Gomez@uclm.es](mailto:Virgilio.Gomez@
 
 Están disponibles dos charlas sobre estadística y probabilidad con GeoGebra:
 
-* [Presentación de la charla de Viriglio Gómez Rubio](https://github.com/becarioprecario/TallerGeoGebra/blob/main/presentacion_charla.pdf).
+* [Presentación de la charla de Virgilio Gómez Rubio](https://github.com/becarioprecario/TallerGeoGebra/blob/main/presentacion_charla.pdf).
 
 * [Presentación del taller impartido por María José Haro Delicado](https://github.com/becarioprecario/TallerGeoGebra/blob/main/presentacion_taller.pdf).
 
