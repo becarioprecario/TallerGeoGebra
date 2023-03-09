@@ -8,7 +8,15 @@
 
 El objetivo de este taller es mostrar las herramientas que proporcional el software [GeoeGebra](https://www.geogebra.org). Este taller está basado en el libro [*Probabilidad y estadística con GeoGebra*](https://fespm.es/index.php/producto/probabilidad-y-estadistica-con-geogebra/) de [Virgilio Gómez Rubio](https://becarioprecario.github.io) y María José Haro Delicado. 
 
+Contacto: Virgilio Gómez Rubio ([Virgilio.Gomez@uclm.es](mailto:Virgilio.Gomez@uclm.es))
+
 ## Materiales
+
+Están disponibles dos charlas sobre estadística y probabilidad con GeoGebra:
+
+* [Presentación de la charla de Viriglio Gómez Rubio](https://github.com/becarioprecario/TallerGeoGebra/blob/main/presentacion_charla.pdf).
+
+* [Presentación del taller impartido por María José Haro Delicado](https://github.com/becarioprecario/TallerGeoGebra/blob/main/presentacion_taller.pdf).
 
 A continuación listamos los materiales utilizados en el taller. En concreto, se trata de un conjunto de bancos de datos de GeoGebra disponibles en un [espacio de la web de GeoGebra](https://www.geogebra.org/u/becarioprecario) para que puedan ser fácilmente accesibles.
 
