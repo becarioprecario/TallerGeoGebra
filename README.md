@@ -38,27 +38,29 @@ A continuación listamos los materiales utilizados en el taller. En concreto, se
 
 * Ejemplo 9. [Teorema central del límite. Media muestral de la distribución uniforme](https://www.geogebra.org/m/yewvx8vt).
 
-* Ejemplo 10. [Teorema central del límite. Media muestral de la  distribución de Poisson](https://www.geogebra.org/m/w5crbcsw).
+* Ejemplo 10. [Aproximación de la binomial con la normal](https://www.geogebra.org/m/yzqxnyur).
 
-* Ejemplo 11. [Lanzamientos de un atleta](https://www.geogebra.org/m/cz4mpa8a).
+* Ejemplo 11. [Teorema central del límite. Media muestral de la  distribución de Poisson](https://www.geogebra.org/m/w5crbcsw).
 
-* Ejemplo 12. [Contraste de hipótesis unilateral](https://www.geogebra.org/m/fdk3udtv).
+* Ejemplo 12. [Lanzamientos de un atleta](https://www.geogebra.org/m/cz4mpa8a).
 
-* Ejemplo 13. [Porcentaje de votantes](https://www.geogebra.org/m/bsyxrtkp).
+* Ejemplo 13. [Contraste de hipótesis unilateral](https://www.geogebra.org/m/fdk3udtv).
 
-* Ejemplo 14. [Contenido de nitrógeno](https://www.geogebra.org/m/fwhtms6a).
+* Ejemplo 14. [Porcentaje de votantes](https://www.geogebra.org/m/bsyxrtkp).
 
-* Ejemplo 15. [Tipos de gasolina](https://www.geogebra.org/m/wey89egp).
+* Ejemplo 15. [Contenido de nitrógeno](https://www.geogebra.org/m/fwhtms6a).
 
-* Ejemplo 16. [Ley de Benford en el censo de Cataluña](https://www.geogebra.org/m/d5swavq3).
+* Ejemplo 16. [Tipos de gasolina](https://www.geogebra.org/m/wey89egp).
 
-* Ejemplo 17. [Ley de Benford en los resultados de la lotería](https://www.geogebra.org/m/evc8ggkc).
+* Ejemplo 17. [Ley de Benford en el censo de Cataluña](https://www.geogebra.org/m/d5swavq3).
 
-* Ejemplo 18. [Epidemiología](https://www.geogebra.org/m/jjbjefss).
+* Ejemplo 18. [Ley de Benford en los resultados de la lotería](https://www.geogebra.org/m/evc8ggkc).
 
-* Ejemplo 19. [Modelo SIR en epidemiología](https://www.geogebra.org/m/xbthdwt7).
+* Ejemplo 19. [Epidemiología](https://www.geogebra.org/m/jjbjefss).
 
-* Ejemplo 20. [Refinería de petróleo](https://www.geogebra.org/m/e5vdtv5c).
+* Ejemplo 20. [Modelo SIR en epidemiología](https://www.geogebra.org/m/xbthdwt7).
+
+* Ejemplo 21. [Refinería de petróleo](https://www.geogebra.org/m/e5vdtv5c).
 
 
 ## Referencias
